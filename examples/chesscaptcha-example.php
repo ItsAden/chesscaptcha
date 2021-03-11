@@ -7,6 +7,8 @@
 
   <?php
 
+
+
   // The array that contains the configuration for the php side
   $config = [
     'divId'=>'chesscaptcha',
